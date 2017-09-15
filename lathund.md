@@ -23,3 +23,5 @@
 ## C#
 ## HTML / CSS
 ## Javascript
+## Markdown
+* Guide for markdown > [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
